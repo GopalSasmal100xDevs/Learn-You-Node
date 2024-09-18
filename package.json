@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bl": "^6.0.15",
+    "concat-stream": "^2.0.0"
+  }
+}
